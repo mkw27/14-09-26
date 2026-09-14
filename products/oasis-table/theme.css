@@ -1,0 +1,14 @@
+/* ============================================================
+   THEME — Oasis Table
+   ============================================================
+   Ce fichier contrôlera l'apparence de la page produit :
+   couleurs, polices, espacements.
+
+   Placeholder — sera remplacé par le thème complet.
+   ============================================================ */
+
+body {
+  margin: 0;
+  background: #ffffff;
+  color: #000000;
+}
